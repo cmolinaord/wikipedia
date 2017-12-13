@@ -1,24 +1,42 @@
-{| class="wikitable sortable"
+{| class="wikitable sortable col1dcen col2cen col3cen col4cen col5cen col6cen col7izq"
 <!-- do not use rowspan=2 or the sorting will break -->
 ! scope="col"| Nombre
-! scope="col"| Pala
 ! scope="col"| Ciudad
 ! scope="col"| Comunidad autónoma
+! scope="col"| Lámina de agua
 ! scope="col"| Fecha de fundación
+! scope="col"| Pala
+! scope="col"| Descripción
 |-
-| align="center" | 1 || align="center" | {{dts|format=dmy|16|10|1960}} ||style="background:#ee0000; color:white" align="center" | '''Sevilla''' || align="center" |  || align="center" | ?
+| [[Club Tiempo Libre el Ejido]]
+| [[El Ejido (Almería)|El Ejido]]
+| [[Andalucía]]
+| Lago Victoria
+| [[2002]]
+|
+| Azul claro liso
 |-
-| align="center" | 2 || align="center" | {{dts|format=dmy|15|10|1961}} ||style="background:#ee0000; color:white" align="center" | '''Sevilla''' || align="center" |  || align="center" | ?
+| [[Club Náutico Sevilla]]
+| [[Sevilla]]
+| [[Andalucía]]
+| [[Río Guadalquivir]]
+| [[1956]]
+| [[Archivo:Club Náutico Sevilla rowing blade.svg|100px]]
+| Blanca con banda diagonal en verde
 |-
-| align="center" | 3 || align="center" | {{dts|format=dmy|14|10|1962}}<br /><span style="color:red;font-size:85%">1963–1969 sin regatas </span> ||style="background:#ee0000; color:white" align="center" | '''Sevilla''' || align="center" |  || align="center" | ?
+| [[Club Natació Banyoles]]
+| [[Banyoles]]
+| [[Cataluña]]
+| [[Lago de Banyoles]]
+| [[1958]]
+| [[Archivo:Rem Banyoles rowing blade.svg|100px]]
+| Blanca con dos bandas finas, una azul y otra roja
 |-
-| align="center" | 4 || align="center" | {{dts|format=dmy|??|??|1970}} ||style="background:#ee0000; color:white" align="center" | '''Sevilla''' || align="center" |  || align="center" | ?
-|-
-| align="center" | 5 || align="center" | {{dts|format=dmy|??|??|1971}} ||style="background:#009900; color:white" align="center" | '''Betis''' || align="center" |  || align="center" | ?
-|-
-| align="center" | 6 || align="center" | {{dts|format=dmy|??|??|1972}} ||style="background:#ee0000; color:white" align="center" | '''Sevilla''' || align="center" |  || align="center" | ?
-|-
-| align="center" | 7 || align="center" | {{dts|format=dmy|??|??|1973}} ||style="background:#009900; color:white" align="center" | '''Betis''' || align="center" |  || align="center" | ?
-|-
-| align="center" | 51 || align="center" | {{dts|format=dmy|11|11|2017}} ||style="background:#009900; color:white" align="center" | '''Betis''' || align="center" | 18:22.3 || align="center" | 1.5 barcos
+| [[Asociación de Remo Hondarribia]]
+| [[Hondarribia]]
+| [[País Vasco]]
+| [[Río Bidasoa]]
+| [[1960]]<ref>http://www.hondarribiarraun.com/es/el-club/historia</ref>
+| [[Archivo:Hondarribia rowing blade.svg|100px]]
+| Verde liso
 |}
