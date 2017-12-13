@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+I, the author of this work, hereby publish it under the following license:
+Permission is granted to copy, distribute and/or modify this document under the 
+terms of the GNU Free Documentation License, Version 1.2 or any later version 
+published by the Free Software Foundation; with no Invariant Sections, no 
+Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included 
+in the section entitled "GNU Free Documentation License".
+
+This file is based on the template originaly found here: 
+http://commons.wikimedia.org/wiki/Image:Rowing_Blade_Template.svg
+For help on editing this file, please see that url.
+
+Template by: Gary van der Merwe 2006
+Derived work by:                                   <- Put your name here!
+-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="230"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Rem Banyoles rowing blade.svg">
+  <metadata
+     id="metadata47">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview45"
+     showgrid="false"
+     inkscape:zoom="1.756"
+     inkscape:cx="181.57419"
+     inkscape:cy="131.19215"
+     inkscape:window-x="1016"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4861"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="loomGradient"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="-14"
+       y2="14">
+      <stop
+         offset="0%"
+         style="stop-color:black;"
+         id="stop7" />
+      <stop
+         offset="25%"
+         style="stop-color:lightgray;"
+         id="stop9" />
+      <stop
+         offset="60%"
+         style="stop-color:black;"
+         id="stop11" />
+    </linearGradient>
+    <!-- Ensure these colors match up with the background of the spoon-->
+    <linearGradient
+       id="ridgeGradient"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="-15"
+       y2="15">
+      <stop
+         offset="0%"
+         style="stop-color:lightgray;"
+         id="stop14" />
+      <stop
+         offset="45%"
+         style="stop-color:white;"
+         id="stop16" />
+      <stop
+         offset="55%"
+         style="stop-color:darkgray;"
+         id="stop18" />
+      <stop
+         offset="100%"
+         style="stop-color:lightgray;"
+         id="stop20" />
+    </linearGradient>
+    <radialGradient
+       id="fadeRidgeGradient"
+       cx="0"
+       cy="0"
+       r="77.459667"
+       gradientTransform="scale(2.5819889,0.38729833)"
+       fx="0"
+       fy="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="50%"
+         style="stop-color:lightgray; stop-opacity:0"
+         id="stop23" />
+      <stop
+         offset="95%"
+         style="stop-color:lightgray;"
+         id="stop25" />
+    </radialGradient>
+    <path
+       id="spoonPath"
+       d="M 105,75 C 105,76 106,77 107,77 C 139,89 170,149 177,181 C 231,199 389,201 455,201 C 458,201 461,198 461,195 L 450,27 C 450,24 447,21 444,21 L 113,43 C 112,43 111,44 111,45  Z" />
+    <clipPath
+       id="spoonClip">
+      <use
+         xlink:href="#spoonPath"
+         id="use29" />
+    </clipPath>
+  </defs>
+  <!-- loom of the blade -->
+  <rect
+     fill="url(#loomGradient)"
+     transform="rotate(9) translate(117, 41)"
+     x="-200"
+     y="-14"
+     height="28"
+     width="200"
+     id="rect31" />
+  <!-- Any thing in here will be cliped to the shape of the spoon -->
+  <!-- Outline of the spoon -->
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="m 143.35422,109.97607 9.94117,15.02502 135.67813,-4.19813 4.20298,75.97591 15.26598,0.83218 -4.27107,-77.2352 151.86414,-4.76225 -1.02416,-15.40076 -151.49104,4.60389 -4.40432,-74.420371 -15.35219,0.931198 4.12748,73.967353 z"
+     id="path3420"
+     inkscape:connector-curvature="0" />
+  <use
+     style="fill:#ffffff;stroke:#000000;fill-opacity:1"
+     xlink:href="#spoonPath"
+     strokewidth="1"
+     id="use43"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     transform="translate(0.48700016,0.20928168)" />
+  <path
+     style="fill:#3d75e6;fill-opacity:1;stroke:none"
+     d="m 326.28328,29.421974 c 0.14705,-0.05191 5.18193,-0.385485 9.39348,-0.627235 l 7.65735,-0.439543 114.21003,171.890314 c 0,0 -5.297,0.6498 -8.73998,0.66343 l -7.26538,-0.0192 C 402.52916,144.03218 365.06842,87.251241 326.28328,29.421974 Z"
+     id="path4261"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csccscc" />
+  <path
+     style="fill:#ee2727;fill-opacity:1;stroke:none"
+     d="m 407.52158,200.50479 -5.70555,-0.19104 C 364.01779,144.15614 326.21956,87.998523 288.42132,31.840919 l 15.91369,-0.938462 113.8488,169.814453 -3.36896,0.0517 c -0.87407,0.0134 -4.15522,-0.15872 -7.29327,-0.26379 z"
+     id="path4263"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccscc" />
+</svg>

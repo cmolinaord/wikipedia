@@ -1,0 +1,24 @@
+{| class="wikitable sortable"
+<!-- do not use rowspan=2 or the sorting will break -->
+! scope="col"| Nombre
+! scope="col"| Pala
+! scope="col"| Ciudad
+! scope="col"| Comunidad autónoma
+! scope="col"| Fecha de fundación
+|-
+| align="center" | 1 || align="center" | {{dts|format=dmy|16|10|1960}} ||style="background:#ee0000; color:white" align="center" | '''Sevilla''' || align="center" |  || align="center" | ?
+|-
+| align="center" | 2 || align="center" | {{dts|format=dmy|15|10|1961}} ||style="background:#ee0000; color:white" align="center" | '''Sevilla''' || align="center" |  || align="center" | ?
+|-
+| align="center" | 3 || align="center" | {{dts|format=dmy|14|10|1962}}<br /><span style="color:red;font-size:85%">1963–1969 sin regatas </span> ||style="background:#ee0000; color:white" align="center" | '''Sevilla''' || align="center" |  || align="center" | ?
+|-
+| align="center" | 4 || align="center" | {{dts|format=dmy|??|??|1970}} ||style="background:#ee0000; color:white" align="center" | '''Sevilla''' || align="center" |  || align="center" | ?
+|-
+| align="center" | 5 || align="center" | {{dts|format=dmy|??|??|1971}} ||style="background:#009900; color:white" align="center" | '''Betis''' || align="center" |  || align="center" | ?
+|-
+| align="center" | 6 || align="center" | {{dts|format=dmy|??|??|1972}} ||style="background:#ee0000; color:white" align="center" | '''Sevilla''' || align="center" |  || align="center" | ?
+|-
+| align="center" | 7 || align="center" | {{dts|format=dmy|??|??|1973}} ||style="background:#009900; color:white" align="center" | '''Betis''' || align="center" |  || align="center" | ?
+|-
+| align="center" | 51 || align="center" | {{dts|format=dmy|11|11|2017}} ||style="background:#009900; color:white" align="center" | '''Betis''' || align="center" | 18:22.3 || align="center" | 1.5 barcos
+|}
