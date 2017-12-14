@@ -4,9 +4,9 @@
 <div style="position: absolute; left: -12px; top: -37px;"></div>
 {{Usuario:Axxgreazz/Estado actual|Carlos Molina Fisico}}
 {{LengüetasArriba}}
-{{Lengüeta1|[[Archivo:Wikipedia-logo.png|30px]] '''[[Usuario:Carlos Molina Fisico|Principal]]'''}}
-{{Lengüeta2|'''[[Usuario:Carlos Molina Fisico/Contribuciones|Contribuciones]]'''}}
-{{Lengüeta3|[[Archivo:Nuvola apps ksig.png|30px]] '''[[Usuario:Carlos Molina Fisico/Pruebas|Zona de Pruebas]]'''}}
+{{Lengüeta1|[[Archivo:Wikipedia-logo.png|30px]] '''[[Usuario:Kamelox|Principal]]'''}}
+{{Lengüeta2|'''[[Usuario:Kamelox/Contribuciones|Contribuciones]]'''}}
+{{Lengüeta3|[[Archivo:Nuvola apps ksig.png|30px]] '''[[Usuario:Kamelox/Pruebas|Zona de Pruebas]]'''}}
 {{LengüetasAbajo}}
 
 <div style="background-color: white;">
@@ -14,44 +14,43 @@
 {| style="border-spacing:8px;margin:0px -8px"
 |class="MainPageBG" style="width: 75%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" |
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px"
-<!---------------------------------
-2.1 Apartado 1: sobre mi
------------------------------------>
+
+<!-- 2.1 Apartado 1: sobre mi -->
+
 ! style="background-color: #cedff2; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Archivo:Wikibar2.png]]</div><div style="float:left;">[[Archivo:Nuvola apps personal.png|20 px]] Usuario
 |-
 | style="; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" |
 
-'''Nombre :''' Carlos
+'''Nombre :''' Carlos Molina
 
 '''Edad :''' {{edad|10|3|1990}}
 
-'''Vivo en :''' [[Sevilla]] ([[Andalucía]])
+'''Vivo en : un pueblecito al lado de ''' [[Sevilla]] ([[Andalucía]])
 
 '''Mis intereses :''' [[Remo (deporte)]], [[Física]], [[software libre]], [[Espacio exterior|Espacio]]
 
 Hola, soy Carlos y soy de [[Sevilla]].
-Estudio la Licenciatura en Física en [[Universidad de Sevilla|Sevilla]]. Además soy [[Remo (deporte)|remero]], deporte que hago desde que tenía 5 o 6 años en el [[Club Náutico Sevilla]]. Desde mi punto de vista el remo es el mejor deporte que existe.
+Estudio la Licenciatura en Física en [[Universidad de Sevilla|Sevilla]]. Además soy [[Remo (deporte)|remero]], deporte que hago desde que tenía 5 o 6 años en el [[Club Náutico Sevilla]].
 
-Me hize [[wikipedista]] hace tiempo porque quiero aportar información a la Wikipedia porque no me gusta el tópico que existe de que ''en la Wikipedia está todo mal y no puedes confiar en la información que se de en ella''. Así que intentaré corregir y ampliar cosas sobre '''[[Física]]''' y, como remero que soy, quiero mejorar y ampliar la información que hay sobre '''remo''', que es mas bien poca.
-
+Me hize [[wikipedista]] hace tiempo porque quiero aportar información a la Wikipedia porque no me gusta el tópico que existe de que ''en la Wikipedia está todo mal y se puede confiar en la información que leas''. Así que intentaré corregir y ampliar cosas sobre '''[[Física]]''', el '''espacio''' y '''remo'''.
 |-
-<!---------------------------------
-Apartado 2: tareas
------------------------------------>
+
+<!-- Apartado 2: tareas   -->
+
 ! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: left; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Archivo:Wikibar2.png]]</div><div style="float:left;"> [[Archivo:Gefahrenzeichen_9.svg|20 px]] Proyectos en los que participo
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" |
-<!--escribe aqui abajo-->
+<!-- escribe aqui abajo -->
 
 [[File:Wikidata_Wikiproject_Rowing.svg|100px]] [[:d:Wikidata:WikiProject Rowing|WikiProject Rowing]]
 
 I'm contributing by adding data to the Wikidata project of Rowing and by linking the existing information to Spanish.
 I also love to categorize everything, trying to make complete lists where everyone could search for information related to the topic of interest.
-<!--escribe arriba de esto-->
+<!-- escribe arriba de esto -->
 |-
-<!---------------------------------
-ARTICULO 3
------------------------------------>
+
+<!--Apartado 3 -->
+
 ! style="background-color: #F7CADA; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #EF98B7; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Archivo:Wikibar2.png]]</div><div style="float:left;">[[Archivo:Nuvola apps kate.png|22px]] Tareas y proyectos futuros</div>
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" |
@@ -75,6 +74,7 @@ Poner un poco de orden ahi.
 == [[:Categoría:Clubes de remo de España|Categorizar]] y crear clubes de remo de España ==
 La misma tarea se aplica a los Wikidata
 * [[Club de remo]]
+* [[Anexo:Lista de clubes de remo de España]]
 * [[:Categoría:Clubes de remo de Andalucía]]
 * [[:Categoría:Clubes de remo de Cataluña]]
 * [[Club Natació Banyoles]]
@@ -83,7 +83,7 @@ La misma tarea se aplica a los Wikidata
 
 Crear y categorizar colores de las palas de los colores de los clubes españoles:
 
-Crear [[Lista de palas de remo de España]]
+Crear [[Anexo:Lista de palas de remo de España]]
 {| class="wikitable"
 !Blade!!Club!!Description
 |-
@@ -99,23 +99,25 @@ Crear [[Lista de palas de remo de España]]
 |[[Círculo de Labradores|Real Círculo de Labradores de Sevilla]], [[Sevilla]]
 |Cuadros alternos en rojo y azul, delimitados por una cruz blanca.
 |-
-
 |}
 
+== Wikiproyecto: Astronáutica ==
+Estoy contribuyendo con el [[Wikiproyecto:astronáutica]] en estos temas:
+* Mantener el [[Anexo:Satélites_de_Galileo]]
+* Categorizar [[:Categoría:Astronáutica]]. Ver [[Wikiproyecto:Astronáutica#Tareas]]
 |}
 
-<!-------------------------------------
- COLUMNA DERECHA
----------------------------------------->
+<!-- COLUMNA DERECHA -->
+
 |class="MainPageBG" style="border:1px solid #cedff2; background-color:#ffffff; vertical-align:top; -moz-border-radius:10px"| <div style="margin: 4px 4px 2px 4px; text-align: left;">
 {| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
 <!--
 <div style="clear: all; align: center; padding: 1em; border: solid 2px #ffffff; background-color: #d2e4fc;">
 <center>'''[http://es.wikipedia.org/w/wiki.phtml?title=User_talk:Ikertza&action=edit&section=new Hace clic aquí para dejarme un mensaje nuevo.] '''</center></div> -->
 |-
-<!---------------------------------
-Userboxes
------------------------------------>
+
+<!-- Userboxes -->
+
 ! style="background-color: #F7CADA; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #EF98B7; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Archivo:Wikibar2.png]]</div><div style="float:left;"> [[Archivo:Nuvola apps klipper.png|20px]] Userboxes
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" |
@@ -128,6 +130,7 @@ Userboxes
 {{Usuario:Paconi/UserboxAndaluz}}
 {{Usuario:Patrickpedia/Usuario Betis}}
 {{Usuario:Userbox/Olímpico}}
+{{Wikiproyecto:Astronáutica/Userbox}}
 
 '''[[Wikipedia:Babel|Idiomas]]'''
 {{Wikiproyecto:Andalucía/dialecto andaluz}}
