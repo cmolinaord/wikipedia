@@ -1,0 +1,12 @@
+SELECT ?personLabel ?birthplaceLabel ?coordinates
+WHERE {
+  ?person wdt:P106 wd:Q13382576 .
+  ?person wdt:P21 wd:Q6581097 .
+  ?person wdt:P19 ?birthplace .
+  ?person wdt:P27 wd:Q29 .
+  ?birthPlace wdt:P625 ?coordinates .
+
+
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
