@@ -1,0 +1,7 @@
+# rowing clubs and coordinates
+SELECT DISTINCT ?item ?itemLabel ?coordinates
+WHERE {
+  { ?item wdt:P31 wd:Q7372078 } UNION { ?item wdt:P31 wd:Q847017; wdt:P641/wdt:P279* wd:Q159354 } UNION { ?item p:P31 [ ps:P31 wd:Q847017; pq:P641/wdt:P279* wd:Q159354 ] } .
+  OPTIONAL { { ?item wdt:P625 ?coordinates } UNION { ?item p:P159 [ pq:P625 ?coordinates ] } }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" }
+}
