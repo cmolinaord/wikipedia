@@ -1,0 +1,10 @@
+SELECT ?person ?personLabel ?clubLabel ?birthplaceLabel ?countryLabel ?coord ?eventLabel
+WHERE {
+  ?person wdt:P106 wd:Q13382576.
+  ?person wdt:P19 ?birthplace.
+  ?person wdt:P27 wd:Q29.
+  OPTIONAL {?person wdt:P1344/wdt:P31 wd:Q720609. }
+  OPTIONAL {?person wdt:P1344 ?event. }
+  OPTIONAL { ?person wdt:P1416|wdt:P54 ?club. }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
